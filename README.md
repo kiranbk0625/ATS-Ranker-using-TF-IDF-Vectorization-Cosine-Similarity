@@ -58,12 +58,15 @@ ats-ranker/
 │   └── config.toml        # Light theme settings
 ├── requirements.txt       # All dependencies
 └── README.md              # This file
+
+
 📦 Setup & Installation
 bash
 Copy
 Edit
 git clone https://github.com/your-username/ats-resume-ranker.git
 cd ats-resume-ranker
+
 
 # Create a virtual environment (optional)
 python -m venv venv
